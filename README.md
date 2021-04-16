@@ -7,7 +7,20 @@ In this project, you'll get to build a neural network from scratch to carry out 
  
 ## Installation setup
 Create a new conda environment:
-conda create --name deep-learning python=3
+<div class="boxed">
+ conda create --name deep-learning python=3
+</div> 
+
+
+Enter your new environment:
+Mac/Linux: >> source activate deep-learning
+Windows: >> activate deep-learning
+
+Install numpy, matplotlib, pandas, and jupyter notebook
+conda install numpy matplotlib pandas jupyter notebook
+
+Run the following to open up the notebook server:
+jupyter notebook
 
 
 

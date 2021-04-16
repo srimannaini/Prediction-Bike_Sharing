@@ -6,19 +6,29 @@ In this project, you'll get to build a neural network from scratch to carry out 
  The data comes from the UCI Machine Learning Database.
  
 ## Installation setup
-Create a new conda environment:
-    conda create --name deep-learning python=3.
+<p>Create a new conda environment:</p>
+
+<pre><code>conda create --name deep-learning python=3.
+</code></pre>
 
 
 Enter your new environment:
-Mac/Linux: >> source activate deep-learning
-Windows: >> activate deep-learning
+<p>Mac/Linux:</p>
+<pre><code>source activate deep-learning
+</code></pre>
+<p>Windows:</p>
+<pre><code>activate deep-learning
+</code></pre>
 
-Install numpy, matplotlib, pandas, and jupyter notebook
-conda install numpy matplotlib pandas jupyter notebook
+<p>Install numpy, matplotlib, pandas, and jupyter notebook:</p>
+<pre><code>conda install numpy matplotlib pandas jupyter notebook
+</code></pre>
 
-Run the following to open up the notebook server:
-jupyter notebook
+
+<p>Run the following to open up the notebook server:</p>
+
+<pre><code>jupyter notebook
+</code></pre>
 
 
 

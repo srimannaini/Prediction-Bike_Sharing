@@ -30,6 +30,8 @@ Enter your new environment:
 <pre><code>jupyter notebook
 </code></pre>
 
+open the file in notebook environment.
+
 
 
 ## SETUP

@@ -34,5 +34,5 @@ open the file named `Predicting_bike_sharing_data.ipynb` in notebook environment
 
 
 
-## SETUP
+
 

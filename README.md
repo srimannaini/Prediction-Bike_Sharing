@@ -7,9 +7,9 @@ In this project, you'll get to build a neural network from scratch to carry out 
  
 ## Installation setup
 Create a new conda environment:
-<div class="boxed">
+#f6f8fa, $bg-gray
  conda create --name deep-learning python=3
-</div> 
+
 
 
 Enter your new environment:
